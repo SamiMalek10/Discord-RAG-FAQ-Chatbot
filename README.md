@@ -6,6 +6,12 @@ A Retrieval-Augmented Generation (RAG) powered Discord bot for answering FAQ que
 
 This chatbot uses RAG to provide accurate, context-aware answers based on the AI Bootcamp knowledge base. It retrieves relevant information from documents before generating responses, ensuring answers are grounded in actual content rather than hallucinated.
 
+## 🎥 Project Demo & Explanation
+
+Watch a short video walkthrough explaining the project architecture, features, and how the Discord RAG bot works in practice:
+
+👉 **Loom Video:** https://www.loom.com/share/a3b0e43ef9ca4aba8127698f29ffdfd8
+
 ## ✅ Project Status
 
 | Phase   | Status      | Description                                              |
