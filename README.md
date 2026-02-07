@@ -188,4 +188,4 @@ The bot answers questions from these documents:
 
 Built as part of the PM Accelerator AI Bootcamp (Weeks 1-3 Project)
 
-**Role**: Data Scientist - Core RAG "Intelligence" & Agent Logic
+**Role**: Data Scientist / PM Cohort 7 & 8 / Sami Malek - Core RAG "Intelligence" & Agent Logic
