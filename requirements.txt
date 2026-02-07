@@ -1,0 +1,39 @@
+# Discord RAG FAQ Chatbot - Dependencies
+# Data Scientist Core Components
+
+# Vector Database
+pymongo[srv]>=4.6.0          # MongoDB Atlas Vector Search
+faiss-cpu>=1.7.4             # Local prototyping vector store
+
+# Embedding Models
+sentence-transformers>=2.2.2  # Local embeddings (all-MiniLM-L6-v2)
+openai>=1.12.0               # OpenAI embeddings (optional)
+
+# LLM Providers
+ollama>=0.1.0                # Local LLM (Ollama)
+
+google-genai>=1.0.0          # Gemini API (new package, replaces google-generativeai)
+mistralai>=1.0.0             # Mistral AI API
+
+# Document Processing
+langchain>=0.1.0             # Chunking only (as per assignment)
+langchain-community>=0.0.20
+pypdf>=4.0.0                 # PDF parsing
+python-docx>=1.1.0           # DOCX parsing
+docx2txt>=0.9                # Alternative DOCX parsing
+
+# Utilities
+python-dotenv>=1.0.0         # Environment variables
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.66.0                 # Progress bars
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+
+# Discord Integration (Phase 3)
+discord.py>=2.3.0            # Discord Bot API
+
+# Logging & Monitoring
+structlog>=24.1.0            # Structured logging
